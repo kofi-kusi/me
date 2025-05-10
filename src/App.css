@@ -1,0 +1,14 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #201c1c;
+  background-image: radial-gradient(rgb(47, 42, 42) 1px, transparent 1px);
+  background-size: 15px 15px;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  color: #D9D9D9;
+  font-family: "space mono";
+}

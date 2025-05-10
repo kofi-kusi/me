@@ -1,2 +1,3 @@
-# who is Kusi?
+# Who is Kusi?
+
 > my portfolio (in progress)
